@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Dutrabr
-- 👀 I’m interested in international relation and ESG
-- 🌱 I’m currently learning INTERNACIONAL RELATION AND ESG
-- 💞️ I’m looking to collaborate on work in foreign trade and/or ESG
-- 📫 How to reach me my e-mail: jvriibmr@gmail.com or WhatsApp:+55 21 998677609
-- 😄 Pronouns: He
-- ⚡ Fun fact: I'm addicted to sports, I play footvolley and football
+# João Victor Dutra Cavalcanti — Data Analytics / BI Portfolio
 
-<!---
-Dutrabr/Dutrabr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build analytics solutions end-to-end: data extraction (SQL), analysis (Python), dashboards (Power BI), and data quality practices (validation, documentation, reproducibility).
+
+## Featured Projects
+### 1) E-commerce Funnel & Retention Analysis (SQL + Python)
+- Goal: measure acquisition → activation → retention and identify drop-offs.
+- Stack: SQL, Python (pandas), visualization.
+- Repo: <link>
+
+### 2) BI Dashboard (Power BI + DAX)
+- Goal: executive KPIs with drill-down and data model + measures.
+- Stack: Power BI, DAX, data modeling.
+- Repo: <link>
+
+### 3) Data Quality & Automation Pipeline (Python)
+- Goal: automate data cleaning/validation and produce reliable outputs with logs.
+- Stack: Python, pandas, quality checks, logging.
+- Repo: <link>
+
+## Skills
+Python • SQL • Power BI/DAX • Data Modeling • Data Quality/QA • Git/GitHub
+
+## Contact
+LinkedIn: <link>
+Email: <email>
