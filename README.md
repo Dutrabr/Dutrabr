@@ -22,5 +22,5 @@ I build analytics solutions end-to-end: data extraction (SQL), analysis (Python)
 Python • SQL • Power BI/DAX • Data Modeling • Data Quality/QA • Git/GitHub
 
 ## Contact
-LinkedIn: <link>
-Email: <email>
+LinkedIn: <https://www.linkedin.com/in/joao-victor-dutra19/>
+Email: <jvriibmr@gmail.com>
